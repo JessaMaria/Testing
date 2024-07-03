@@ -5,8 +5,6 @@
 <param ve-iframe
   src="https://archive.org/embed/ERIC_EJ1164913/page/n1/mode/2up"
   fit="contain">
-
-  Book on Central America
   
 
 To create a new repository using this template go to [https://github.com/juncture-digital/template/generate](https://github.com/juncture-digital/template/generate)
